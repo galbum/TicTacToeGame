@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Represents\ a\ code\ for\ Game.\r\n\ Using\ this\ method\ you\ could\ start\ and\ play\ the\ game.\r\n\ @author\ Gabi\ Album\r\n
+comment1.params=playerX\ playerO\ renderer\ board
+comment1.target=Game(Player,\ Player,\ Renderer,\ Board)
+comment1.text=\r\n\ Constructor.\r\n\ @param\ playerX\ First\ player.\r\n\ @param\ playerO\ Second\ player.\r\n\ @param\ renderer\ The\ render\ of\ this\ game.\r\n\ @param\ board\ The\ board\ for\ the\ specific\ game.\r\n
+comment2.params=
+comment2.target=Mark\ run()
+comment2.text=\r\n\ The\ method\ that\ runs\ the\ game.\r\n\ @return\ The\ mark\ of\ the\ winner.\r\n\ @param\ mark\ The\ mark\ that\ will\ be\ played.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ Main\ method.\r\n
+numComments=4

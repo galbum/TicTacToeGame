@@ -1,0 +1,47 @@
+galbum
+316563949
+
+The clever player starts from top left corner and checks if the space is empty then puts the mark down,
+ if not empty then continues to search for the nearest empty spot.
+This is good enough because the whatever player puts his mark randomly then the chances of him 
+to put WIN_STREAK amount of marks in a row is very small.
+The whatever player gets a random number for row and a different random number for the column 
+then checks if the space is empty then puts down mark if not then gets again another 
+two random numbers and continues that way until he puts down the mark.
+
+
+whatever vs clever:
+Player 1 won: 23 times, 
+Player 2 won: 477 times,
+Draw happened: 0 times.
+
+clever vs whatever:
+Player 1 won: 483 times, 
+Player 2 won: 17 times,
+Draw happened: 0 times.
+
+clever vs clever:
+Player 1 won: 250 times, 
+Player 2 won: 250 times,
+Draw happened: 0 times.
+
+clever vs mrsmartypants:
+Player 1 won: 467 times, 
+Player 2 won: 33 times,
+Draw happened: 0 times.
+
+mrsmartypants vs clever:
+Player 1 won: 500 times, 
+Player 2 won: 0 times,
+Draw happened: 0 times.
+
+mrsmartypants vs mrsmartypants:
+Player 1 won: 0 times, 
+Player 2 won: 0 times,
+Draw happened: 500 times.
+
+whatever vs whatever:
+Player 1 won: 428 times, 
+Player 2 won: 436 times,
+Draw happened: 136 times.
+

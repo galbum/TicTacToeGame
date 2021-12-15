@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Renderer
+comment0.text=\r\n\ A\ supplied\ class\ for\ the\ Tic\ Tac\ Toe\ exercise.\r\n\ Renders\ a\ given\ Board\ to\ the\ console.\r\n\ @author\ Dan\ Nirel\r\n
+comment1.params=
+comment1.target=Renderer()
+comment1.text=\r\n\ Initializes\ the\ renderer.\r\n
+comment2.params=board
+comment2.target=void\ renderBoard(Board)
+comment2.text=\r\n\ Prints\ the\ supplied\ board\ to\ the\ console.\r\n\ @param\ board\ the\ board\ to\ print.\r\n
+comment3.params=rowStart\ colStart\ mark
+comment3.target=void\ drawMarkInBuffer(int,\ int,\ Mark)
+numComments=4

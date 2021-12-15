@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\r\n\ Represents\ a\ code\ for\ Board.\r\n\ Using\ this\ method\ you\ could\ put\ mark\ and\ check\ game\ status\r\n\ @author\ Gabi\ Album\r\n
+comment1.params=
+comment1.target=Board()
+comment1.text=\r\n\ Constructor.\r\n
+comment2.params=mark\ row\ col
+comment2.target=boolean\ putMark(Mark,\ int,\ int)
+comment2.text=\r\n\ The\ method\ will\ check\ if\ the\ place\ given\ is\ valid\ and\ if\ yes\ will\ add\ mark\r\n\ @param\ mark\ The\ mark\ we\ want\ to\ add.\r\n\ @param\ row\ The\ row\ coordinate.\r\n\ @param\ col\ The\ col\ coordinate.\r\n\ @return\ true\ if\ valid,\ else\ false.\r\n
+comment3.params=
+comment3.target=Mark\ getWinner()
+comment3.text=\r\n\ The\ method\ checks\ the\ status\ of\ the\ game.\r\n\ @return\ Status\ of\ the\ game.\r\n
+comment4.params=row\ col
+comment4.target=Mark\ getMark(int,\ int)
+comment4.text=\r\n\ The\ method\ checks\ the\ mark\ on\ specific\ coordinates.\r\n\ @param\ row\ The\ row\ coordinate.\r\n\ @param\ col\ The\ col\ coordinate.\r\n\ @return\ Mark\ on\ given\ coordinates.\r\n
+comment5.params=mark
+comment5.target=boolean\ gameEnded(Mark)
+comment5.text=\r\n\ The\ method\ checks\ if\ their\ is\ a\ winner.\r\n\ @param\ mark\ The\ mark\ that\ needs\ to\ be\ checked.\r\n\ @return\ true\ if\ the\ mark\ won,\ else\ returns\ false.\r\n
+comment6.params=row\ col\ rowDelta\ colDelta\ mark
+comment6.target=int\ countMarkInDirection(int,\ int,\ int,\ int,\ Mark)
+comment6.text=\r\n\ \ Implementation\ comment\ for\ private\ methods.\r\n\ \ Count\ how\ many\ marks\ in\ a\ row\ for\ a\ given\ cell\ and\ direction.\r\n
+numComments=7

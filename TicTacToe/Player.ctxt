@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Represents\ a\ code\ for\ Player.\r\n\ Using\ this\ method\ you\ could\ put\ create\ players\ and\ play\ their\ turns.\r\n\ @author\ Gabi\ Album\r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ Constructor.\r\n
+comment2.params=board\ mark
+comment2.target=void\ playTurn(Board,\ Mark)
+comment2.text=\r\n\ The\ method\ plays\ the\ turn.\r\n\ @param\ board\ The\ board\ of\ the\ given\ game.\r\n\ @param\ mark\ The\ mark\ that\ will\ be\ played.\r\n
+numComments=3
